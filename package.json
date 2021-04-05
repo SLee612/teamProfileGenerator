@@ -1,0 +1,24 @@
+{
+  "name": "teamProfileGenerator",
+  "version": "1.0.0",
+  "description": "Team Profile Generator to display information about employees",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SLee612/teamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SLee612/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/SLee612/teamProfileGenerator#readme"
+}
