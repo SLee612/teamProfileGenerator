@@ -20,5 +20,13 @@ Once user has run node index.js, they are prompted with a series of questions.  
 
 ### *Walkthrough Video:*
 
+[![](http://img.youtube.com/vi/yiN0b2yXK5k/0.jpg)](http://www.youtube.com/watch?v=yiN0b2yXK5k "")
 
+
+
+
+
+### *GitHub Repo:*
+
+https://github.com/SLee612/teamProfileGenerator
 
