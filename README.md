@@ -16,12 +16,18 @@ User must run npm install in their terminal in order to use the program.
 
 Once user has run node index.js, they are prompted with a series of questions.  They first choose between manager, engineer and intern; what they choose will lead them to the next set of questions (they are slightly different for each class choice).
 
+***
 
+### *Walkthrough Videos:*
 
-### *Walkthrough Video:*
-
+### Generating an HTML page
 [![](http://img.youtube.com/vi/yiN0b2yXK5k/0.jpg)](http://www.youtube.com/watch?v=yiN0b2yXK5k "")
 
+### Testing Links on HTML page
+[![](http://img.youtube.com/vi/8QH4tDxU1cA/0.jpg)](http://www.youtube.com/watch?v=8QH4tDxU1cA "")
+
+### Running Tests
+[![](http://img.youtube.com/vi/C-XL3rwEiHw/0.jpg)](http://www.youtube.com/watch?v=C-XL3rwEiHw "")
 
 
 
